@@ -120,9 +120,3 @@ This is a GUI tool. Run it on a machine with a display (or use X forwarding).
 ## Disclaimer
 
 This tool only helps obscure parts of images. You are responsible for verifying that no sensitive information remains visible in the saved output before sharing it, and for handling the original evidence in line with your engagement rules and applicable law.
-
----
-
-## License
-
-Add the license of your choice (for example, MIT) in a `LICENSE` file and update this section.
